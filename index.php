@@ -1,7 +1,8 @@
 <?php
 echo "HI";
-echo "HI2";
-echo 'HI3';
-echo 'HI4/b';
-echo 'HI5';
+echo "HI 2 <br>";
+echo "HI 3";
+echo "<br>";
+echo "HI 4";
+echo "HI 5";
 ?>
